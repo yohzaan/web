@@ -4,7 +4,6 @@ Axon system is value based company where we believe human first, integrity withi
 ### our services
 
 Focused on transparent services:
-
 The definition is inspired by open movements, open content principles, open tools and standards (free software movement, open content, free software, open source). We mainly focuses on creating “open” products and/or services. We strive to be for the benefit of all and not just for one group or stakeholders, whether shareholders, personnel, government etc. The risk of bankruptcy of such open-movement businesses is reduced because the fruits of their work remain in the commons and therefore remain as a permanent base for recovering the open business, even in their most critical situations. Since, we prefer long lasting solutions thus we work to deliver, develop and deploy variety of technologies from Free, Libre, Swatantra software stack. Some of our services ranges from generic web applications to complex ERP systems. But that does in no sense means that we do everything. We have some of specialized area of expertise to serve our clients and delight them with services that best meets their requirements.
 
 
